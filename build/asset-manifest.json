@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.890140c5.css",
+    "main.js": "/static/js/main.baa0cd4e.js",
+    "static/media/flat-lay-clean-office-desk.jpg": "/static/media/flat-lay-clean-office-desk.a1d9fa166c6303014db2.jpg",
+    "static/media/todo.png": "/static/media/todo.ed7b1c334a2d2a8073db.png",
+    "index.html": "/index.html",
+    "main.890140c5.css.map": "/static/css/main.890140c5.css.map",
+    "main.baa0cd4e.js.map": "/static/js/main.baa0cd4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890140c5.css",
+    "static/js/main.baa0cd4e.js"
+  ]
+}
